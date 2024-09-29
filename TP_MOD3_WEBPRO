@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Diri</title>
+</head>
+<body>
+    <h1> Profil Gw Nich</h1>
+    <table border="1" cellspacing="25">
+        <tr>
+        <th> Foto Gw </th> <!-- col 1 at row 1 -->
+        <th> Video Gw </th> <!-- col 2 at row 1 -->
+        </tr>
+        <tr <div align="center"></div>
+            <td><img src="Foto Gw.jpeg" width="50" height="50" /> </td>
+            <td><video src="Video Gw.mp4" width="100" height="50" /> </td>
+        </tr>
+    </table>
+
+    <h1>Tentang Gw Nich</h1>
+    <p> Wassap! Gw Ardiyan, mahasiswa Telkom especially Jurusan IT. </p>
+
+    <h1>Keterampilan Gw Nich</h1>
+    <table border="1">
+        <tr>
+        <th>Keterampilan </th> <!-- col 1 at row 1 -->
+        <th>Tingkat </th> <!-- col 2 at row 1-->
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td>Pemula</td>
+        </tr>
+        <tr>
+            <td>Call Of Duty:Mobile</td>
+            <td>Tes by1</td>
+        </tr>
+        <tr>
+            <td>HOK</td>
+            <td>Boleh di adu</td>
+        </tr>
+        <tr>
+            <td>Mobile Legend</td>
+            <td>Pemula aja</td>
+        </tr>
+    </table>
+
+    <h1>Hubungi Gw</h1>
+    <form>
+        Nama: <input type="text" name="Nama" /><br />
+        Email: <input type="text" name="Email" /><br />
+        Pesan: <textarea name="Messege" rows="6" cols="20"></textarea><br />
+        <br />
+        <button>Kirim Pesan</button>
+    </form>
+
+    <h1>Social Media Gw</h1>
+    <a href="https://LinkedIn.com">LinkedIn |</a>
+    <a href="https://LinkedIn.com">GitHub |</a>
+    <a href="https://Discord.com">Discord |</a>
+    
+</body>
+</html>
